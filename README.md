@@ -2,4 +2,5 @@
 Aim : Write a C program for implementation of insertion and deletion in a specific position in  an array using function
 
 ## Screenshots
-[output1.png]
+![Landing Page](output1.png)
+![Featured books](output2.png)
